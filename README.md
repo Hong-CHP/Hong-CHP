@@ -1,37 +1,99 @@
 ## Hi there 👋
 
-> **42 School Student | Aspiring Embedded Systems & AI Engineer** >  *Learning to learn, one project at a time.*
+> **42 School Student | Embedded Systems & AI Engineer in Progress**
+> Learning by building systems, from hardware to AI.
 
 ---
 
-### 🚀 What I'm Up To
-- **🔭 Current Focus:** Building **Card Nest**, a real-time multiplayer gaming platform for the 42 `ft_transcendence` project. 
-  - *Tech Stack:* **React**, **NestJS**, **PostgreSQL**, and **WebSockets**.
-  - *Team:* Collaborating with [@LycorisBellua](https://github.com/LycorisBellua), [@Joshw34](https://github.com/Joshw34), [@cngogang](https://github.com/cngogang), [@Romtry](https://github.com/Romtry).
-- **🌱 Learning:** Exploring **Embedded Systems** (RTOS, Bare-metal C) and the frontier of **AI Agents**.
-- **👯 Collaboration:** I'm looking to join Open Source projects related to **Firmware development** or **Autonomous AI Agents**.
+### 🚀 Current Focus
+
+**🔭 Building Card Nest**
+A real-time multiplayer platform for the 42 `ft_transcendence` project.
+
+- **Frontend:** React
+- **Backend:** NestJS (REST + WebSockets)
+- **Database:** PostgreSQL
+- **Real-time:** WebSockets / event-driven architecture
+- **Collaboration:**  
+  @LycorisBellua · @Joshw34 · @cngogang · @Romtry
+
+👉 Focus: system design, real-time communication, and scalable backend architecture
 
 ---
 
-### 🛠️ Tech Toolbox
+### 🧠 What I'm Learning
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Low-Level** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-| **Web / Fullstack** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-| **DevOps & Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+I'm building across **three layers of computing systems**:
+
+**⚙️ Embedded Systems**
+- Bare-metal C (register-level programming)
+- STM32 development
+- Arduino prototyping (rapid hardware experiments)
+- RTOS fundamentals
+- Low-level debugging & performance constraints
+
+**🤖 AI Systems**
+- LLM fundamentals
+- RAG pipelines
+- AI Agents architecture
+- Tool-use / function-calling systems
+
+**🐍 Software & Automation**
+- Python for scripting, automation, and AI prototyping
+- Data processing & API integration
+- Rapid prototyping for AI + embedded workflows
+
+👉 Goal: connect embedded systems, automation, and AI into real-world intelligent devices
 
 ---
 
-### 📊 GitHub Stats & Activity
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hong-CHP&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hong-CHP&layout=compact&theme=tokyonight)
+### 🛠️ Tech Stack
+
+**Low-Level / Embedded**
+- C / C++
+- STM32 / Bare-metal programming
+- Arduino (prototyping & hardware experiments)
+- Linux basics
+
+**Backend / Fullstack**
+- Node.js / NestJS
+- TypeScript
+- PostgreSQL
+- WebSockets
+
+**Scripting / AI Prototyping**
+- Python
+- API integration
+- Automation scripts
+
+**DevOps**
+- Docker
+- Nginx
+- Basic CI/CD workflows
 
 ---
 
-### 💬 Get in Touch
-- **Ask me about:** C/C++ memory management, Dockerizing microservices, or how I survived the 42 Piscine.
-- **📫 Email:** [changhong1993@hotmail.com](mailto:changhong1993@hotmail.com)
-- **⚡ Fun Fact:** I'm an **addictive climber** 🧗‍♂️. I solve bugs the same way I solve routes: with patience, grip, and sometimes a little bit of chalk.
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hong-CHP&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hong-CHP&layout=compact&theme=tokyonight)
 
 ---
+
+### 💬 Let's Talk
+
+- Embedded systems (STM32 / Arduino / bare-metal C)
+- Python automation & system scripting
+- Real-time backend architecture (WebSockets, event systems)
+- AI agent design & LLM pipelines
+- Dockerized backend systems
+
+📫 Email: changhong1993@hotmail.com
+
+---
+
+### 🧗 Fun Fact
+
+I build systems the same way I climb:
+start simple (Arduino), go deeper (STM32), then scale up (distributed systems + AI).
