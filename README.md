@@ -95,4 +95,4 @@ I'm building across **three layers of computing systems**:
 
 ### 🧗 Fun Fact
 
-I build systems the same way I climb~
+I build systems the same way I climb: informations -> problems -> concentration -> engagements -> details -> solutions ~
