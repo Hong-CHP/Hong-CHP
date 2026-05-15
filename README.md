@@ -27,7 +27,7 @@ I'm building across **three layers of computing systems**:
 
 **⚙️ Embedded Systems**
 - Bare-metal C (register-level programming)
-- STM32 development
+- STM32 development (STM32CubeMx, STM32CubeIDE, HAL...)
 - Arduino prototyping (rapid hardware experiments)
 - RTOS fundamentals
 - Low-level debugging & performance constraints
@@ -95,5 +95,4 @@ I'm building across **three layers of computing systems**:
 
 ### 🧗 Fun Fact
 
-I build systems the same way I climb:
-start simple (Arduino), go deeper (STM32), then scale up (distributed systems + AI).
+I build systems the same way I climb~
